@@ -1,0 +1,16 @@
+# 依赖与构建产物
+node_modules/
+dist/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 目标网页抓取的临时资源（本地调试用，不发布）
+作业作答_files/
+*.下载
+
+# 日志
+*.log
